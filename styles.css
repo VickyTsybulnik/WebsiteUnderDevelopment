@@ -45,9 +45,7 @@ p {
   height: auto;
   margin: 0 auto;
   overflow: hidden;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  border-radius: 8px; /* Slightly rounded corners */
-  background-color: #f3f3f3; /* Optional: background color for the container */
+  background-color: #ffffff; /* Optional: background color for the container */
 }
 
 .image-container img {
